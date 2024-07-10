@@ -2,7 +2,7 @@
 let questions = [
     {
     numb: 1,
-    question: "Friday variya?",
+    question: "Friday vara chance irka?",
     answer: "Yes",
     options: [
       "Yes",
@@ -13,24 +13,24 @@ let questions = [
   },
     {
     numb: 2,
-    question: "Nee eppa taa free?",
-    answer: "This Friday",
+    question: "Yaaru enda kunju kutty?",
+    answer: "Naa mattu taa",
     options: [
-      "This Friday",
-      "Maybe this Friday",
-      "Amma kitta keknu",
-      "Anytime 😏"
+      "Naa taa",
+      "Naa mattu taa",
+      "Naa illa",
+      "Vera yaaro"
     ]
   },
     {
     numb: 3,
-    question: "Saptiya?",
+    question: "Enna venu",
     answer: "Friday velila kondu po",
     options: [
-      "Sapte",
-      "Inu illa",
+      "Ellamey",
+      "terla",
       "Friday velila kondu po",
-      "Amma seiyonum"
+      "Apro solre"
     ]
   },
 ];
