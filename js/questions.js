@@ -13,7 +13,7 @@ let questions = [
   },
     {
     numb: 2,
-    question: "Yaaru enda kunju kutty?",
+    question: "Yaaru enda chello kutty?",
     answer: "Naa mattu taa",
     options: [
       "Naa taa",
